@@ -1,0 +1,11 @@
+{
+	"katas": [
+		{
+			"id": "0",
+			"question": "Is this the first kata?",
+			"opt1": "yes",
+			"opt2": "no", 
+			"correct": "1"
+		}
+	]
+}
