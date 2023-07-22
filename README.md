@@ -4,8 +4,8 @@ Code katas that run from the command line.
 **kataCrud.py**  
 Interface for creating new katas in a JSON file
 
-**test.json**
+**test.json**  
 Sample file
 
-**test.py**
+**test.py**  
 Unit testing
