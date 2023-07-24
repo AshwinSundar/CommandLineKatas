@@ -9,3 +9,7 @@ Sample file
 
 **test.py**  
 Unit testing
+
+### TO DO 
+- implement create, update, delete functions
+- implement CLI
